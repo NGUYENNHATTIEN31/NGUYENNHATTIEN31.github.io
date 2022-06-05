@@ -1,0 +1,60 @@
+.khungngoai{
+    background-color: #333;
+}
+.astronaut>img{
+    height: 200px;
+    margin-left: 27.9cm;
+    margin-top: -93px;
+    background-repeat: no-repeat;
+}
+.khung{
+    background-color: white;
+    height: 1811.590px;
+    width: 1020px; 
+    padding: 24px 24px 24px 24px ;
+    margin: 0 auto;
+    margin-bottom: -1px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+/*-------------gioithieu-------*/
+.gioithieu>ul>li>h5{
+    display: inline;
+}
+.gioithieu>ul>li>a{
+    color:#0969da;
+    font-size: 15px;
+}
+.gioithieu p{
+    text-align: center;
+}
+/*-------------SPOTIFY-------*/
+.spotify>ul>li>h1{
+    display: inline;
+}
+.spotify ul> p{
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 130px;
+}
+/*-------------REACH ME-------*/
+.reachme h1{
+    display: inline;
+}
+.reachme p{
+    text-align: center;
+}
+/*-------------SKILL-------*/
+.skill h1{
+    display: inline;
+}
+.skill p{
+    text-align: center;
+}
+.skill >table{
+    border: 1px solid black;
+}
+.table{
+    margin-left: 40px;
+}
+
